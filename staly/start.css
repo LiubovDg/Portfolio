@@ -55,3 +55,27 @@
     position: relative;
     bottom: 250px;
 }
+.horizontal-navigation-item {
+    position: relative;
+    left: 100px;
+}
+.slide-navigation {
+    display: block;
+    position: relative;
+    top: 120px;
+    left: 10px;
+    margin: 0;
+}
+.detailed-information {
+    display: block;
+    position: relative;
+    top: 150px;
+    margin: 0;
+}
+.slide-navigation-item {
+    display: block;
+    position: relative;
+    top: 120px;
+    left: 5px;
+    margin: 0;
+}
