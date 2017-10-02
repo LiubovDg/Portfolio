@@ -1,0 +1,54 @@
+.profile-avatar {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    bottom: 40px;
+}
+.profile-avatar-item {
+    justify-content: center;
+    width: 750px;
+    height: 360px;
+}
+.profile-name {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    height: 30px;
+    position: relative;
+    top: 250px;
+    color: #93baff;
+    font-size: 20px;
+    z-index: 1;
+}
+.horizontal-panel {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    bottom: 150px;
+}
+.horizontal-panel-item {
+    width: 750px;
+}
+.now-navigation {
+    position: relative;
+    bottom: 290px;
+}
+.top-navigation-bar {
+    display: flex;
+    justify-content: center;
+}
+.top-navigation-bar-item {
+    padding: 0 35px;
+    list-style:none;
+}
+.top-navigation-bar-list-item {
+    text-decoration: none;
+    color: #93baff;
+}
+.horizontal-navigation {
+
+}
