@@ -50,5 +50,8 @@
     color: #93baff;
 }
 .horizontal-navigation {
-
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 250px;
 }
