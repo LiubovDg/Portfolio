@@ -57,25 +57,33 @@
 }
 .horizontal-navigation-item {
     position: relative;
-    left: 100px;
+    left: 70px;
 }
 .slide-navigation {
     display: block;
     position: relative;
     top: 120px;
-    left: 10px;
+    right: 20px;
     margin: 0;
 }
 .detailed-information {
     display: block;
     position: relative;
     top: 150px;
+    right: 75px;
+    margin: 0;
+}
+.detailed-information-item {
+    display: block;
+    position: relative;
+    top: 150px;
+    right: 130px;
     margin: 0;
 }
 .slide-navigation-item {
     display: block;
     position: relative;
     top: 120px;
-    left: 5px;
+    right: 50px;
     margin: 0;
 }
